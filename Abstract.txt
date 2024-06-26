@@ -1,0 +1,8 @@
+VULN-SCAN is a vulnerability-scanning web application that identifies security flaws  
+and vulnerabilities in networks, and applications. This Vulnerability scanner is an  
+automation tool that scans for security issues, misconfigurations, and software  
+vulnerabilities, providing organizations with critical insights to address and  
+mitigate them. The scanner scans for ports, URLs, and XSS attacks to prevent  
+security attacks. Port scanning assesses network security, identifies open ports,  
+and discovers services running on them. URL scanning is essential for web  
+application security testing, using manual and automated techniques.
